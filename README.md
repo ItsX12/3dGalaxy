@@ -1,1 +1,1 @@
-https://itsx12.github.io/3dGalaxy
+https://itsx12.github.io/3dGalaxy/index.html
